@@ -18,3 +18,5 @@ Clarus Gallery, basit ve şık bir resim galerisidir. Bu proje, çeşitli resiml
 - Şık ve minimalist bir tasarım
 - Resimler üzerine geldiğinizde açıklama metnini gösteren tooltip
 - Duyarlı ve modern kullanıcı arayüzü
+  
+![cw](./img/img.jpg)
