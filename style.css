@@ -50,6 +50,7 @@ a:hover {
   align-items: center;
   flex-wrap: wrap;
   margin: 8rem 0 1rem;
+  padding: 0px 5rem;
   position: relative;
   gap: 1rem;
 }
@@ -84,7 +85,7 @@ img {
 
 .back:hover .tooltip {
   opacity: 1;
-  background-color: #B8BCC2
+  background-color: #b8bcc2;
 }
 
 footer {
