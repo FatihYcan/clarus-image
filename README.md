@@ -20,3 +20,6 @@ Clarus Gallery, basit ve şık bir resim galerisidir. Bu proje, çeşitli resiml
 - Duyarlı ve modern kullanıcı arayüzü
   
 ![cw](./img/img.jpg)
+
+
+[Canlı Demo'yu Deneyin](https://fatihycan.github.io/clarus-image/)
