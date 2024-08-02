@@ -19,7 +19,6 @@ Clarus Gallery, basit ve şık bir resim galerisidir. Bu proje, çeşitli resiml
 - Resimler üzerine geldiğinizde açıklama metnini gösteren tooltip
 - Duyarlı ve modern kullanıcı arayüzü
   
-![cw](./img/img.jpg)
-
+https://github.com/user-attachments/assets/f82f2f29-bc8a-4faf-809e-093eb61b44de
 
 [Canlı Demo'yu Deneyin](https://fatihycan.github.io/clarus-image/)
